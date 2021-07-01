@@ -2,15 +2,12 @@
 # EAS Encoder
 Emergency Alert System for macOS
 ## Installation
-Download the installer here: https://www.mediafire.com/file/lsx857p3crqoupr/EAS_Encoder_Installer.dmg/file
 ### Step 1
+Download the installer here: https://www.mediafire.com/file/fdhfc0pjs9w5dcv/EAS_Encoder_Installer.dmg/file
+### Step 2
 Launch the installer.
 
-![Step 1](https://user-images.githubusercontent.com/72320038/123878935-03b69900-d90e-11eb-9ed0-03162d01c014.png)
-### Step 2
-After installation, open "EAS Encoder.dmg" from your desktop and drag "EAS Encoder" to the Applications folder.
-
-![Step 2](https://user-images.githubusercontent.com/72320038/123879243-9a835580-d90e-11eb-9dcb-38eb984c4d20.png)
+![Step 2](https://user-images.githubusercontent.com/72320038/124193161-5cb03980-da94-11eb-8be8-56b2e34a05aa.png)
 ## Usage
 Launch the app and type your EAS message.
 
