@@ -11,9 +11,11 @@ Launch the installer.
 ![Step 2](https://user-images.githubusercontent.com/72320038/124193161-5cb03980-da94-11eb-8be8-56b2e34a05aa.png)
 
 ## Usage
-Launch the app and type your EAS message.
+Launch the application and select your audio message.
 
-![Usage](https://user-images.githubusercontent.com/72320038/124369196-19da9700-dc37-11eb-97fe-57ef88f3fb84.png)
+![Usage 1](https://user-images.githubusercontent.com/72320038/124501585-db0c2480-dd8f-11eb-98a1-e1990d85995c.png)
+
+![Usage 2](https://user-images.githubusercontent.com/72320038/124501626-ea8b6d80-dd8f-11eb-94c4-e0c6f58cbcd4.png)
 
 Compatible with macOS.
 
