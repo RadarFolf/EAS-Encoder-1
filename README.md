@@ -1,6 +1,10 @@
 ![icon](https://raw.githubusercontent.com/GabeCoder/EAS-Encoder/main/icon.png)
 # EAS Encoder
 Emergency Alert System for macOS
+## Requirements
+Git (Command Line Tools)
+
+Tom (System Voice)
 ## Installation
 ### Step 1
 Download the installer here: https://www.mediafire.com/file/yo2j7hs63cxlweu/EAS_Encoder_Installer.dmg/file
